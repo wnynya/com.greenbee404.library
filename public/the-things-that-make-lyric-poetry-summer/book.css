@@ -1,0 +1,12 @@
+body, .cover {
+  background-color: #D7DADD;
+}
+
+.book {
+  height: calc(30vw * 1.414);
+}
+@media (max-width:600px) {
+  .book {
+    height: calc(40vw * 1.414);
+	}
+}
