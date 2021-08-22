@@ -77,7 +77,7 @@ app.use('/resource', express.static(path + '/resource'));
 app.use(express.static(path + '/public'));
 // set 404
 app.all('*', (req, res) => {
-  res.send("404 not found");
+  res.status(404).send("404 not found");
 });
 
 exports.app = app;
