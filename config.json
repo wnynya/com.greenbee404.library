@@ -1,0 +1,13 @@
+{
+  "host": "library.greenbee404.com",
+  "path": "/root/com.greenbee404.library",
+  "logger": {
+    "source": "greenbee404-library",
+    "title": "G404",
+    "color": {
+      "red": 0,
+      "green": 0,
+      "blue": 255
+    }
+  }
+}
