@@ -4,7 +4,6 @@
   "description": "greenbee 404 Library",
   "main": "server.js",
   "author": "Greenbee",
-  "license": "ISC",
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon --watch ./ --ignore ./public/ --ignore ./data/ --ignore ./resource/ --ignore ./resource-babel/",
