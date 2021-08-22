@@ -8,6 +8,8 @@
       "red": 0,
       "green": 0,
       "blue": 255
-    }
+    },
+    "ignore-hosts": [],
+    "ignore-agents": []
   }
 }
